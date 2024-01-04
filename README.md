@@ -1,0 +1,2 @@
+# fidus-default-style
+Springer
